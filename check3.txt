@@ -7,3 +7,5 @@ Added addition by Master
 
 added multiplication bu lokesh
 
+added division logic by master
+
